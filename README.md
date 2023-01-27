@@ -10,7 +10,7 @@ La BDD donnée durant ce projet propose une méthode de classement peu pratique 
 
 ![new_db](/images/new_db.PNG)
 
-Dans le nouveau schéma, les tableaux se lient entre de manière plus intrinsèque et efficace : les données des employés sont désormais regroupés dans un nouveau tableau "Employee_Data", D'une manière générale, les tableaux sont plus nombreux, contiennent moins de colonnes et évitent les répétitions de type de donnée.
+Dans le nouveau schéma, les tableaux se lient entre de manière plus intrinsèque et efficace : les données des employés sont désormais regroupés dans un nouveau tableau "Employee_Data", et les données géographiques des tournois dans "Place". D'une manière générale, les tableaux sont plus nombreux, contiennent moins de colonnes et évitent les répétitions de type de donnée.
 
 ## DBManager
 
