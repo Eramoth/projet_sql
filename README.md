@@ -15,6 +15,7 @@ Dans le nouveau schéma, les tableaux se lient entre de manière plus intrinsèq
 #### DBManager
 
 ![db_manager](/images/db_manager.PNG)
+
 DBManager est un programme python permettant de mettre à jour la base de donnée avec la nouvelle structure, mais aussi de faire des requêtes plus ou moins spécifiques.
 
 La première option va réinitialiser le fichier "update.db" (ou, dans le cas où il n'existe pas, le créer) et y insérer toutes les données de l'ancienne BDD en suivant la structure de la nouvelle.
