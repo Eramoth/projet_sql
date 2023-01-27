@@ -6,13 +6,13 @@ Ce projet a pour but de récupérer les données d'une base de donnée préexist
 
 La BDD donnée durant ce projet propose une méthode de classement peu pratique : en effet, des informations d'un même type se retrouvent éparpillées à travers plusieurs tableaux différents (par exemple, les noms et prénoms des employés de la structure se retrouvent dans les tableaux "Staff", "Coach" et "Player").
 
-### Nouvelle base de donnée
+## Nouvelle base de donnée
 
 ![new_db](/images/new_db.PNG)
 
 Dans le nouveau schéma, les tableaux se lient entre de manière plus intrinsèque et efficace : les données des employés sont désormais regroupés dans un nouveau tableau "Employee_Data", D'une manière générale, les tableaux sont plus nombreux, contiennent moins de colonnes et évitent les répétitions de type de donnée.
 
-#### DBManager
+## DBManager
 
 ![db_manager](/images/db_manager.PNG)
 
